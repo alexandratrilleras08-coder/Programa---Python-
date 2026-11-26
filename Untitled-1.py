@@ -1,5 +1,4 @@
 """
-Fundamentos de Programación (213022) - Fase 5 Evaluación Final POA
 Problema 3: Reabastecimiento de inventario
 Formato de la matriz: [Código, Nombre, Stock actual, Stock mínimo requerido]
 """
